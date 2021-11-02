@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+    text-align: center;
+    background-color: blueviolet;
+    font: Tahoma;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    color: royalblue;
+    font-weight: bold;
+}
+
